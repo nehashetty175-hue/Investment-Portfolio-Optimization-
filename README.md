@@ -1,6 +1,6 @@
-# 📈 Investment Portfolio Optimization Analysis (Excel)
+# Investment Portfolio Optimization Analysis (Excel)
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes investment portfolios using Microsoft Excel, Power Query, and Power Pivot. The objective is to evaluate portfolio performance, profitability, risk exposure, and investment diversification through an interactive executive dashboard.
 
